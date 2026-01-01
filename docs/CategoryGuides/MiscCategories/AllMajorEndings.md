@@ -592,7 +592,11 @@ You will attempt to open the punch card to get movement back, just like you did 
 
 The first phase of the fight is skipped because you are in NG+. The second phase of the fight is largely the same, however since you are a lower LV it will take a few more hits to kill him. Optimally you can finish the fight in 7 attacks. 
 
-After the Mettaton fight, be sure to wait until Alphys starts talking to close the punch card. Then walk out of the room. This time Alphys Elevator skip is not mandatory, though it does still save time. After doing long elevator skip, **<span style="color: orange">SAVE</span>** at the "Castle Elevator" save point. 
+After the Mettaton fight, be sure to wait until Alphys starts talking to close the punch card. Then walk out of the room. 
+
+It is crucial that you **DO NOT DO ALPHYS ELEVATOR SKIP** this ending. The first part of Alphys Elevator Skip where you PCE the "Sorry about that!" text is safe, but it is critical to not do the second part of the skip where you punch card the elevator door. If you do, the Mettaton room will be impassible and you will have to enter the Alphys Elevator room from the bottom and play through the cutscene normally, losing quite a bit of time.
+
+After doing long elevator skip, **<span style="color: orange">SAVE</span>** at the "Castle Elevator" save point. 
 
 At the top left of the following room, there is an elevator that allows you to skip Monstertale. Because you saved after completing it in the previous ending, you will be able to take this elevator. Do so. The Asgore fight and Flowey encounter are exactly the same as in the previous ending
 
