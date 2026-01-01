@@ -578,7 +578,7 @@ Requirements:
 - Undyne Dead
 - Mettaton Dead
 - Papyrus Dead
-- No other monsters dead
+- 4 other kills (effectively no other monsters dead)
 
 Once you have reloaded, backtrack to Long Elevator. Ride the elevator down (overflowing it if you can), then wrong warp out. If you don't wrong warp out, you will have to mash through a whole bunch of Alphys Text.
 
@@ -586,7 +586,11 @@ Wrong warp into Mettaton's room. For some reason if you enter normally, you're p
 
 ### Before the Mettaton Fight
 
-You will attempt to open the punch card to get movement back, just like you did the first time you fought Mettaton, however it is more complicated to do that in an NG+ state. First, PCE the mettaton cutscene. Next, mash through the cutscene until Mettaton says "REALLY, WHERE?". During this time, you can head towards the room exit as long as you don't leave. There is no moving platform to push you out. After closing that text box, open the menu and hover over use on the punch card. Once the "CLEVER, VERY CLEVER" text appears, but before the textbox finishes, you want to press Enter, Shift, and Z in rapid succession just as you would for Flowerflow. If you are too slow in these inputs, then you will close the punch card too early. If you do the inputs after the textbox finishes, you will not open the punch card at all. Notably, the punch card is drawn behind the battler so if it looks like the punch card disappears, that doesn't necessarily mean you closed it early.
+In order to completely skip the post-mettaton cutscene, you are going to touch the door just before the mettaton fight starts, causing you to leave the room immediately after the fight starts and before the resultant cutscene can lock your movement. This strat would be frame-perfect, but the frame-perfect timing can be transformed into an easy pixel lineup using a trick called Tetris Neo Text (TNT). 
+
+Start by PCEing the mettaton fight cutscene just like you would in other categories. Next you are going to quickly line up with the pixel shown in the image below. If you are too low, you won't leave the room in time and will softlock. If you are one pixel too high, the trick will work but you will not be able to wrong warp. Fortunately the wrong warp only saves 9 frames so missing it is not a big deal. Next, mash through the set of textboxes that starts with "Seems like you could skip Mettaton's monologue by turning him around now", and the set that starts with "REALLY? WHERE?" After this, menu to INFO on the punch card but don't actually info it just yet. Hold <kbd>▲ Up</kbd>. Wait for the "CLEVER... VERY CLEVER" text to appear, then mash and start holding <kbd>▲ Up</kbd>+<kbd>◀ Left</kbd>.  
+
+TODO add images
 
 ### The Mettaton Fight
 
