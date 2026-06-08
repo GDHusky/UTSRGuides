@@ -201,7 +201,7 @@ The 2nd method is known as Snowgrave, which is an easier and slightly slower ver
 
 <img src='./Images/SnowgraveRoute.png' alt="Snowgrave Ice Puzzle Skip Route" title="Snowgrave Ice Puzzle Skip Route"></img>
 
-From here, hold <kbd>▶ Right</kbd> to move to the final tile, and while sliding, start holding <kbd>▼ Down</kbd>. When you start sliding again, let go of <kbd>▼ Down</kbd> so you're only holding <kbd>▶ Right</kbd>. This will skip the bridge cutscene.
+From here, hold <kbd>▶ Right</kbd> (and keep holding it) to move to the final tile, and while sliding, start holding <kbd>▼ Down</kbd>. When you start sliding again, let go of <kbd>▼ Down</kbd> so you're only holding <kbd>▶ Right</kbd>. This will skip the bridge cutscene.
 
 The third method is known as Icebreaker, and is performed similarly to ice puzzle skip. This method eliminates the need to move left two pixels on the final tile, which can save time for some runners. However, the movement is slightly more difficult. Upon entering the room, hold <kbd>▼ Down</kbd> to rub against the bottom corner. You then hold <kbd>▶ Right</kbd>, <kbd>▲ Up</kbd>+<kbd>◀ Left</kbd>, <kbd>▲ Up</kbd>, and <kbd>▼ Down</kbd>+<kbd>◀ Left</kbd>. You then have to release <kbd>◀ Left</kbd> for a few frames when you’re over the top tile in the middle so you can hit the bottom tile. You then continue going down+left, and then up, left, and up again. Stop on the first pixel that activates the top tile, as shown below.
 
